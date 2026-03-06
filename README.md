@@ -142,7 +142,3 @@ docker compose exec web python manage.py createsuperuser
 # Сбор статики
 docker compose exec web python manage.py collectstatic --no-input
 ```
-
-## Автор
-
-Студент группы ___________
